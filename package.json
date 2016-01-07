@@ -1,0 +1,25 @@
+{
+  "name": "metalsmith-localize-collection",
+  "version": "0.0.1",
+  "description": "Creates localized branches of a metalsmith collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/der-On/metalsmith-localize-collection.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "collection",
+    "locale",
+    "i18n"
+  ],
+  "author": "Ondrej Brinkel <info@anzui.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/der-On/metalsmith-localize-collection/issues"
+  },
+  "homepage": "https://github.com/der-On/metalsmith-localize-collection#readme"
+}
